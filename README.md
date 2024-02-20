@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Prabal Pratap Singh.
-- 👀 I’m interested in learning Programming.
-- 🌱 I’m currently learning HTML, JS, CSS, Python And C++.
+- 👋 Hi, I’m Prabal Pratap Singh,
+- 👀 Welcome to my GitHub Profile,
+- 🌱 I am currently trying to learn Front-end Development.
+- 👨🏻‍💻 You may find some of my projects here
+
 
 
 <!---
